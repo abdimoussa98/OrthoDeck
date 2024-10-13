@@ -43,7 +43,7 @@
 
 /* removing text on small buttons and adding icons to them */
 .NGv5FNsp6c4OnD0_KOiDl span::before {
-    content: '⇯';
+    content: '⇪';
     visibility: visible;
     font-size: x-large;
 }
@@ -55,7 +55,7 @@
 ._3LsB3VZBjMjAp0RCa_3MGS span::before {
     margin: 0px 8px 6px;
     margin-left: 25px;
-    content: ' ⇦';
+    content: '⌫';
     visibility: visible;
     text-align: right;
     font-size: x-large;
